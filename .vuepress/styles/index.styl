@@ -1,0 +1,31 @@
+[data-theme='light']
+ --sideBgColor $sideBgColor
+
+[data-theme='dark']
+ --sideBgColor $sideBgColorDark
+ --dropShadowColor $dropShadowColor
+
+.home .hero img
+  max-width 350px!important
+  
+.navbar
+  filter drop-shadow(0px 1px 1px var(--dropShadowColor))
+
+.sidebar
+  background-color var(--sideBgColor)
+
+html {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  background-color: unset;
+}
+::-webkit-scrollbar {
+    width 0px
+    background transparent /* make scrollbar transparent */
+}
+
+tr
+   &:nth-child(1n)
+     background-color var(--bodyBgColor)
+   &:nth-child(2n)
+     background-color var(--sideBgColor)

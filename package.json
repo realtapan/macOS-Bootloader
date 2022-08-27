@@ -1,0 +1,24 @@
+{
+  "name": "macOS-Bootloader",
+  "version": "1.0.0",
+  "description": "EFI to run macOS on un-supported hardware.",
+  "main": "index.js",
+  "repository": "git@github.com:realtapan/macOS-Bootloader.git",
+  "author": "realtapan",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.9.7",
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-medium-zoom": "^1.9.7",
+    "@xiaopanda/vuepress-plugin-code-copy": "^1.0.3",
+    "vuepress": "^1.9.7",
+    "vuepress-theme-succinct": "^1.7.2"
+  },
+  "dependencies": {
+    "vuepress-plugin-smooth-scroll": "^0.0.10"
+  },
+  "license": "MIT"
+}
