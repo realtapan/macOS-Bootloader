@@ -30,7 +30,7 @@ This motherboard shipped with no HDMI port so iGPU is useless for display output
 | Support | Version | |
 | :------ | :-------------------: | :-------------: |
 | Initial macOS Support | 10.13 - 11 | macOS High Sierra - macOS Big Sur |
-| Bootloader| 0.8.3 | **[Download](../Asus-H81-M-CS/EFI.zip)** |
+| Bootloader| 0.8.3 | **[Download](EFI.zip)** |
 | Issue & Support | **[Discord](https://discord.gg/466jPtNZgC)** | **[Telegram](https://t.me/macEFI)** |
 
 ::: warning
