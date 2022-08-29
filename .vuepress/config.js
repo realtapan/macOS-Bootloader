@@ -35,7 +35,7 @@ module.exports = {
         sidebarDepth: '0',
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'Profile', link: '/' },
+            { text: 'Profile', link: 'https://github.com/realtapan/macOS-Bootloader/blob/master/google7c1f412ad6d656c6.html' },
             { text: 'Shop Now', link: 'https://google.com' }
           ],
 

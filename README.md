@@ -6,10 +6,6 @@ tagline: EFI to boot macOS on un-supported hardware.
 actionText: Get Started →
 actionLink: /intro/
 ---
-<head>
-<meta name="google-site-verification" content="Y-pqMo-B3_Mvfngf2BmJugQ8LsnwYMkwsiqJST_qvrk" />
-</head>
-
 # What happens in the macOS boot process
   * Power is turned on.
   * EFI code is executed.
