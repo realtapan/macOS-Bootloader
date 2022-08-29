@@ -14,11 +14,12 @@
     "@vuepress/plugin-back-to-top": "^1.9.7",
     "@vuepress/plugin-google-analytics": "^1.9.7",
     "@vuepress/plugin-medium-zoom": "^1.9.7",
-    "@vuepress/plugin-search": "^1.9.7",
     "@xiaopanda/vuepress-plugin-code-copy": "^1.0.3",
     "vuepress": "^1.9.7",
-    "vuepress-plugin-smooth-scroll": "^0.0.10",
     "vuepress-theme-succinct": "^1.7.2"
+  },
+  "dependencies": {
+    "vuepress-plugin-smooth-scroll": "^0.0.10"
   },
   "license": "MIT"
 }
