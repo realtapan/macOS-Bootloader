@@ -82,5 +82,11 @@ module.exports = {
                 background: 'var(--bodyBgColor)'
             }
         }],
+        [
+            '@vuepress/google-analytics',
+            {
+              'ga': 'G-N3GX978E29' // UA-00000000-0
+            }
+          ],
     ]
   }

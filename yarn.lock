@@ -1406,6 +1406,13 @@
     "@vuepress/types" "1.9.7"
     lodash.debounce "^4.0.8"
 
+"@vuepress/plugin-google-analytics@^1.9.7":
+  version "1.9.7"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-google-analytics/-/plugin-google-analytics-1.9.7.tgz#0162e7bb28686422298c04a12f2e7727a2708d90"
+  integrity sha512-ZpsYrk23JdwbcJo9xArVcdqYHt5VyTX9UN9bLqNrLJRgRTV0X2jKUkM63dlKTJMpBf+0K1PQMJbGBXgOO7Yh0Q==
+  dependencies:
+    "@vuepress/types" "1.9.7"
+
 "@vuepress/plugin-last-updated@1.9.7":
   version "1.9.7"
   resolved "https://registry.npmjs.org/@vuepress/plugin-last-updated/-/plugin-last-updated-1.9.7.tgz"
@@ -1632,7 +1639,7 @@
 
 "@xiaopanda/vuepress-plugin-code-copy@^1.0.3":
   version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@xiaopanda/vuepress-plugin-code-copy/-/vuepress-plugin-code-copy-1.0.3.tgz#fb507e27ae97b7ca73de12d32db5c7d49efc741c"
+  resolved "https://registry.npmjs.org/@xiaopanda/vuepress-plugin-code-copy/-/vuepress-plugin-code-copy-1.0.3.tgz"
   integrity sha512-m9j3OMJh2wAO07a3MvAGj7RnlZcH9J7jMkf+VMaurNKQFcl2MxCHjLDiLgRB7Zs4DVbFzHnshoYl/pCJ4HZxOg==
 
 "@xtuc/ieee754@^1.2.0":
@@ -8239,7 +8246,7 @@ vuepress-theme-succinct@^1.7.2:
 
 vuepress@^1.9.7:
   version "1.9.7"
-  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-1.9.7.tgz#2cd6709a2228f5cef588115aaeabf820ab9ed7cc"
+  resolved "https://registry.npmjs.org/vuepress/-/vuepress-1.9.7.tgz"
   integrity sha512-aSXpoJBGhgjaWUsT1Zs/ZO8JdDWWsxZRlVme/E7QYpn+ZB9iunSgPMozJQNFaHzcRq4kPx5A4k9UhzLRcvtdMg==
   dependencies:
     "@vuepress/core" "1.9.7"
