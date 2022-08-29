@@ -35,8 +35,8 @@ module.exports = {
         sidebarDepth: '0',
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'Guide', link: '/guide/' },
-            { text: 'External', link: 'https://google.com' }
+            { text: 'Profile', link: '/' },
+            { text: 'Shop Now', link: 'https://google.com' }
           ],
 
         sidebar: [
