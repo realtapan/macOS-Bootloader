@@ -35,7 +35,7 @@ module.exports = {
         sidebarDepth: '0',
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'Profile', link: 'https://github.com/realtapan/macOS-Bootloader/blob/master/google7c1f412ad6d656c6.html' },
+            { text: 'Support', link: 'https://discord.gg/466jPtNZgC' },
             { text: 'Shop Now', link: 'https://google.com' }
           ],
 
@@ -60,10 +60,19 @@ module.exports = {
                     collapsable: true,
                     sidebarDepth: 1,
                     children: [
-                        ['/desktop-efi/Asus-H81-M-CS/asush81m-cs.md', 'Asus H81M-CS'], 
+                        ['/desktop-efi/Asus-H81-M-CS/asush81m-cs.md', 'Asus H81M-CS'],
+                    ]
+                },
+                {
+                    title: 'Laptop Bootloader',
+                    collapsable: true,
+                    sidebarDepth: 1,
+                    children: [
+                        ['/laptop-efi/HP-Folio-9470M/hp-folio-9470m.md', 'HP Folio 9470M'],
                     ],
-                }],
-            },
+                },]
+            }    
+            
         ]
       },
 
