@@ -70,7 +70,7 @@ module.exports = {
                     sidebarDepth: 2,
                     children: [
                         ['/laptop-efi/HP-Folio-9470M/hp-folio-9470m.md', 'HP Folio 9470M'],
-                        ['laptop-efi/Lenovo-Z500/lenovo-z500.md', 'Lenovo Z500']
+                        ['laptop-efi/Lenovo-Z500/lenovo-z500.md', 'Lenovo IdeaPad Z500']
                     ],
                 },]
             }    
