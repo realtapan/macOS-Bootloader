@@ -1,6 +1,6 @@
 ![](../Asus-H81-M-CS/asush81m-cs.png)
 
-## Hardware Overview
+### Hardware Overview
 | Description | Details |
 | :-------- | :------: |
 | Motherboard | Asus H81M-CS |
@@ -16,7 +16,7 @@
 ::: tip
 This motherboard shipped with no HDMI port so iGPU is useless for display output. Use any supported dGPU.
 :::
-## BIOS Setup
+### BIOS Setup
 | Disable | Enable |
 | :------: | :-----: |
 | Fast Boot | VT-x |
@@ -26,7 +26,7 @@ This motherboard shipped with no HDMI port so iGPU is useless for display output
 | VT-d | OS type: Windows 8.1/10 UEFI Mode |
 | CFG Lock | DVMT Pre-Allocated(iGPU Memory) 1024MB |
 
-## Bootloader 
+### Bootloader 
 | Support | Version | |
 | :------ | :-------------------: | :-------------: |
 | Initial macOS Support | 10.13 - 11 | macOS High Sierra - macOS Big Sur |

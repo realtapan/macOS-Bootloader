@@ -1,5 +1,5 @@
 ![](../HP-Folio-9470M/hp-folio-9470m.png)
-## Hardware Overview
+### Hardware Overview
 | Description | Details |
 | :-------- | :------: |
 | Chipset | Intel® QM77|
@@ -13,7 +13,7 @@
 |         | Bluetooth 4.0 |
 | Audio | 	IDT 92HD91BXX HD Audio |
 | Battery | Long Life 4-Cell, 14.8V, 52Wh (integrated) |
-## BIOS Setup
+### BIOS Setup
 | Disable | Enable |
 | :------: | :-----: |
 | Fast Boot | VT-x |
@@ -22,7 +22,7 @@
 | Parallel Port | EHCI/XHCI Hand-off |
 | VT-d | OS type: Windows 8.1/10 UEFI Mode |
 | CFG Lock | DVMT Pre-Allocated(iGPU Memory) MAX |
-## Bootloader 
+### Bootloader 
 | Support | Version | |
 | :------ | :-------------------: | :-------------: |
 | Initial macOS Support | 10.13 - 11 | macOS High Sierra - macOS Big Sur |

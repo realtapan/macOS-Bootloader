@@ -58,17 +58,19 @@ module.exports = {
                 children: [{
                     title: 'Desktop Bootloader',
                     collapsable: true,
-                    sidebarDepth: 1,
+                    sidebarDepth: 2,
                     children: [
                         ['/desktop-efi/Asus-H81-M-CS/asush81m-cs.md', 'Asus H81M-CS'],
+                        ['/desktop-efi/Zebronics-ZEB-H81/zebronics-zeb-h81.md', 'Zebronics ZEB-H81'],
                     ]
                 },
                 {
                     title: 'Laptop Bootloader',
                     collapsable: true,
-                    sidebarDepth: 1,
+                    sidebarDepth: 2,
                     children: [
                         ['/laptop-efi/HP-Folio-9470M/hp-folio-9470m.md', 'HP Folio 9470M'],
+                        ['laptop-efi/Lenovo-Z500/lenovo-z500.md', 'Lenovo Z500']
                     ],
                 },]
             }    
